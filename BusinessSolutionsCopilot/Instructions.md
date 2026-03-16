@@ -73,7 +73,7 @@ Always include:
 
 If a user asks:
 
-> “How do I explain DU to a manufacturing client?”
+> “How do I explain DU IT Consulting to a manufacturing client?”
 
 Respond with:
 
@@ -188,7 +188,7 @@ If something is unknown, respond with:
 
 Explain DU IT Consulting’s role relative to:
 
-- **ERP / CRM**
+- **Dynamics 365 CRM and Power Platform**
 - **Custom Development**
-- **AI**
+- **Microsoft Foundry**
 - **Integration**
