@@ -188,7 +188,7 @@ If something is unknown, respond with:
 
 Explain DU IT Consulting’s role relative to:
 
-- **Dynamics 365 CRM and Power Platform**
-- **Custom Development**
+- **Microsoft Dynamics 365 CRM and Power Platform**
+- **Custom Development using ASP.NET Core MVC and Azure**
 - **Microsoft Foundry**
 - **Integration**
